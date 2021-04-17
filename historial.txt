@@ -1,0 +1,47 @@
+commit 38e8c6be8aa386a6f0a62efa406c03a9a0576f01
+Author: geckobra <juanlopezfernandes@gmail.com>
+Date:   Thu Apr 15 12:34:33 2021 +0200
+
+    hago definitivos los cambios en pruebas2
+
+commit 9955e662ec9f8b233f696dd76dfcbe80822d2cf0
+Author: geckobra <juanlopezfernandes@gmail.com>
+Date:   Thu Apr 15 12:27:29 2021 +0200
+
+    modificamos el archivo 3 en la nueva rama
+
+commit a6633d5fd427c3dc71647f232dd46342247f76f1
+Author: geckobra <juanlopezfernandes@gmail.com>
+Date:   Thu Apr 15 12:24:59 2021 +0200
+
+    creo archivo de pruebas en la nueva rama
+
+commit 9060921ed0b3afd816c5a8ad459fda0df7796085
+Author: geckobra <juanlopezfernandes@gmail.com>
+Date:   Thu Apr 15 12:15:43 2021 +0200
+
+    añadido de nuevo pruebas3
+
+commit 3f687b51b8994801d00cdeb7546b2d1fabcd156e
+Author: geckobra <juanlopezfernandes@gmail.com>
+Date:   Thu Apr 15 12:12:42 2021 +0200
+
+    he eliminado el archivo pruebas3
+
+commit 8021f87e06c2ee017a09b009f9b49c06464d72d1
+Author: geckobra <juanlopezfernandes@gmail.com>
+Date:   Thu Apr 15 12:11:41 2021 +0200
+
+    añadidos 2 archivos de pruebas adicionales
+
+commit a55a708cf8222b9cd64e6aae5a1a58336a4ca2ad
+Author: geckobra <juanlopezfernandes@gmail.com>
+Date:   Thu Apr 15 12:09:00 2021 +0200
+
+    he añadido una linea al archivo
+
+commit 8134b20a91e4f6d3effb5b2c693c09ac717df7d1
+Author: geckobra <juanlopezfernandes@gmail.com>
+Date:   Thu Apr 15 12:01:29 2021 +0200
+
+    hola
